@@ -36,7 +36,7 @@ Fill out the submission.md template, included at the top of the bounty's folder 
 **This must be included to be considered for the bounty prize.**
 
 ### Step 6
-Create a pull request with your team's folder submission. Submit it to the repo.
+Create a pull request with your team's folder submission to be merged into Master. Submit it to the repo.
 
 
 ### Step 7
