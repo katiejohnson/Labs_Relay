@@ -11,8 +11,10 @@ List each team member, along with their github handle and ETH wallet address (re
 
 [ Team Member Name ]
 [ Team Member Github Handle]
-[ ETH Wallet Address ]
-[ Email ]
+[ Contact Team Member about Future Hackathons? y/n ]
+
+[ Team Member Name ]
+[ Team Member Github Handle]
 [ Contact Team Member about Future Hackathons? y/n ]
 
 ## Project SME/Advisor

@@ -4,7 +4,7 @@
 All bounty submissions must be received no later than 11:59 PM EDT on April 30th, 2019 to be considered.
 
 ## Judging Date
-Projects will be assessed from May 1 to May 15th, 2019, and winners will be announced at the Ethereal Conference in New York, and then on Labs.ConsenSys.net and the Ethereal Hackathon Discord server at a later time!
+Projects will be assessed from May 1 to May 10th, 2019, and winners will be announced at the Ethereal Conference in New York, and then on Labs.ConsenSys.net and the Ethereal Hackathon Discord server at a later time!
 
 ## How to Submit Your Project!
 
