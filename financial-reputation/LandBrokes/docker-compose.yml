@@ -1,0 +1,38 @@
+version: '3.7'
+
+services:
+
+  check_buy_land:
+    build:
+      context: ./
+    command: [ "yarn", "start" ]
+
+  test_unit:
+    build:
+      context: ./
+    command: [ "yarn", "test:unit" ]
+
+  deploy_dev:
+    build:
+      context: ./
+      dockerfile: ./DockerfileDeploy
+    depends_on:
+      - ganache
+    environment:
+      RPC_HOST: "ganache"
+    command: [ "./deployChain.sh" ]
+
+  ganache:
+    build:
+      context: ./
+      dockerfile: ./DockerfileDeploy
+    restart: always
+    working_dir: /usr/src/app/chain/bankContracts
+    ports:
+      - 8545:8545
+    command: [ "yarn", "ganache" ]
+
+  linter:
+    build:
+      context: ./
+    command: [ "yarn", "lint" ]

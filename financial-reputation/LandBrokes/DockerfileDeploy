@@ -1,0 +1,29 @@
+FROM node:10.15.3 as builder
+
+RUN mkdir -p /usr/src/app/chain/landSC
+RUN mkdir -p /usr/src/app/chain/bankContracts
+
+#ENV NODE_ENV=production
+
+WORKDIR /usr/src/app/chain/landSC
+COPY chain/landSC/package.json /usr/src/app/chain/landSC
+COPY chain/landSC/package-lock.json /usr/src/app/chain/landSC
+RUN npm i
+
+WORKDIR /usr/src/app/chain/bankContracts
+COPY chain/bankContracts/package.json /usr/src/app/chain/bankContracts
+COPY chain/bankContracts/package-lock.json /usr/src/app/chain/bankContracts
+RUN npm i
+
+FROM node:10.15.3-alpine as release
+
+RUN mkdir -p /usr/src/app/chain/landSC
+RUN mkdir -p /usr/src/app/chain/bankContracts
+WORKDIR /usr/src/app
+
+ENV NODE_ENV=production
+
+COPY --from=builder /usr/src/app/chain/landSC/node_modules /usr/src/app/chain/landSC/node_modules
+COPY --from=builder /usr/src/app/chain/bankContracts/node_modules /usr/src/app/chain/bankContracts/node_modules
+
+COPY . /usr/src/app
