@@ -28,7 +28,9 @@ https://github.com/onggunhao
 
 Imanesti  
 https://github.com/wimanesti    
-[ Contact Team Member about Future Hackathons? y/n ]
+0x3d579fCeFD15Afff576B9CeF2a30B538E6c4371c  
+widya.imanesti@gmail.com  
+  
 
 Thomas  
 https://github.com/tspoff  
