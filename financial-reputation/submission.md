@@ -42,6 +42,7 @@ If some of your material cannot be uploaded to GitHub (ie. Google Slides, a pitc
 - **Demo URL:** https://ristretto-affogato.netlify.com
 - **Rinkeby Address:** [0xdA4C07B7159C6302330cA947089893018D382EE3](https://rinkeby.etherscan.io/address/0xda4c07b7159c6302330ca947089893018d382ee3)
 - **Sokol POA Address:** [0x902C68ED3bde2e270a747A507BF59329ba33fbfC](https://blockscout.com/poa/sokol/address/0x902c68ed3bde2e270a747a507bf59329ba33fbfc/transactions)
+- **Development Repository:** https://github.com/AffogatoNetwork/ristretto
 
 ## Project Launch Page
 https://ristretto-affogato.netlify.com
