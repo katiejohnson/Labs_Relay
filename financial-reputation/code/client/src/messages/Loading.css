@@ -1,0 +1,46 @@
+#root, body, html{
+  height: 100%;
+}
+
+.loading-wrapper{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    top:15%;
+    position: relative;
+}
+
+.loading-wrapper h4, .loading-wrapper h6 {
+    text-align: center;
+}
+
+.loading-icon {
+    max-width: 100%;
+    width: 250px;
+    height: 100px;
+    text-align: center;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.metamask-icon {
+  max-width: 100%;
+  color: #fff;
+  text-align: center;    
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1200px) { 
+  .loading-icon {
+    max-width: 50%;
+  } 
+
+  .metamask-icon{
+    max-width: 40%;
+  }
+}
+
