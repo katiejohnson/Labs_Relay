@@ -20,7 +20,7 @@ Double Dabble is a decentralized double opt-in protocol for credit score that en
 [ amachreeowanate@gmail.com ]
 [ y ]
 
-[ acrologic ]
+[ Thomas Spofford ]
 [ tspoff ]
 [ 0xA53a09E31Ff80bdB028aEdC6dc95709b7f74a94A ]
 [ tspofford@protonmail.com ]
