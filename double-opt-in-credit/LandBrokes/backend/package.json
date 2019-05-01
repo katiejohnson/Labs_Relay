@@ -1,0 +1,55 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index",
+    "lint": "eslint .",
+    "test:unit": "mocha -R spec ./test/test.config.js ./test/unit --recursive --timeout 15000",
+    "test:integration": "mocha -R spec ./test/test.config.js ./test/integration --recursive --timeout 15000",
+    "test:coverage": "nyc yarn test:unit",
+    "test:coverage:check": "nyc check-coverage --statements 100 --branches 100 --functions 100 --lines 100"
+  },
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x",
+    "yarn": "1.x"
+  },
+  "nyc": {
+    "cache": true,
+    "extension": [
+      ".js"
+    ],
+    "reporter": [
+      "html",
+      "json",
+      "text-summary"
+    ],
+    "include": [
+      "src"
+    ],
+    "exclude": []
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "decimal.js": "^10.1.1",
+    "dotenv": "^7.0.0",
+    "ethers": "^4.0.27",
+    "lodash.clonedeep": "^4.5.0",
+    "node-fetch": "^2.3.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "mocha": "^6.1.4",
+    "nyc": "^14.0.0",
+    "sinon": "^7.3.2"
+  }
+}

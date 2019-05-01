@@ -1,0 +1,27 @@
+{
+  "name": "land-sc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "truffle compile",
+    "ganache": "ganache-cli -d -e 1000000",
+    "migrate:dev": "truffle migrate --reset"
+  },
+  "dependencies": {
+    "erc821": "^5.3.0",
+    "ganache-cli": "^6.4.3",
+    "openzeppelin-zos": "1.9.4",
+    "truffle": "5.0.2",
+    "zeppelin-solidity": "1.2.0",
+    "zos": "1.4.0",
+    "zos-lib": "^0.1.28"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

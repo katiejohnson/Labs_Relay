@@ -1,0 +1,15 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "createSandbox": true,
+    "expect": true,
+    "srcDir": true
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": "off",
+    "no-unused-expressions": "off",
+    "node/no-unpublished-require": "off"
+  }
+}

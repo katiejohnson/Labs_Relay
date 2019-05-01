@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended",
+    "plugin:promise/recommended"
+  ],
+  "plugins": [
+    "node",
+    "promise"
+  ],
+  "env": {
+    "node": true,
+    "browser": false
+  },
+  "globals": {},
+  "rules": {}
+}
