@@ -20,7 +20,7 @@ Contact Team Member about Future Hackathons? y julesgoullee@gmail.com
 
 Ryan Pereira
 @pereiraryan
-Please contact on email for ETH address
+0xb67ECd2e31f9F42c309aecD714cb0e4e1B8E152c
 Contact Team Member about Future Hackathons? y pereiraryan.rp@gmail.com
 
 Stefan-Codrin Ionescu
