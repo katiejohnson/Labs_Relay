@@ -9,24 +9,16 @@ LandBrokes is a dApp where people will be able to invest with fiat and get slice
 ## Project Team
 
 Gulshan Vasnani
-@gulshanvasnani
-0xD593EE741824fD627a9a888294547a5CA5AbF8fB
-Contact Team Member about Future Hackathons? y gulshanslvasnani@gmail.com
+https://github.com/gulshanvasnani
 
 Jules Goullée
-@julesGoullee
-0x2c7750f6cdDf1c2E088FC3ff2744B0F950672C64
-Contact Team Member about Future Hackathons? y julesgoullee@gmail.com
+https://github.com/julesGoullee
 
 Ryan Pereira
-@pereiraryan
-0xb67ECd2e31f9F42c309aecD714cb0e4e1B8E152c
-Contact Team Member about Future Hackathons? y pereiraryan.rp@gmail.com
+https://github.com/pereiraryan
 
 Stefan-Codrin Ionescu
-@stefanionescu
-0x5581364f1350B82Ed4E25874f3727395BF6Ce490
-Contact Team Member about Future Hackathons? y stefanionescu@protonmail.com
+https://github.com/stefanionescu
 
 ## Project SME/Advisor
 Esteban Ordano

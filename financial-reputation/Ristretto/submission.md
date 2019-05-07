@@ -7,26 +7,18 @@ Ristretto
 Ristretto is a Peer to Peer lending platform where debt is backed by friends, family or people who trust in the borrower. Users can have different roles in the platform, they can be Endorsers, Borrowers or Lenders. In many cases people like coffee farmers have no access to any kind of credit, this is specially important in scenarios where they are forced to sell their cultures, at really low prices, in order to finance the next one and keep the business flowing.
 
 ## Project Team
-List each team member, along with their github handle and ETH wallet address (required) as well as email (not required, but we'd love to keep your team in the loop about the next hackathon!)
+List each team member, along with their github handle as well as email (not required, but we'd love to keep your team in the loop about the next hackathon!)
 
 **Cristian Espinoza**
-0x930A7CD60A633128B7c5181307781e6d033BA51a
-crisgarner
-cristian@affogato.co
+https://github.com/crisgarner
 
 **Jorge Destephen**
-0xFE5F1A8DF29B2803Fde2319fDDC5ba198416089F
-jdestephen
-jorge@affogato.co
+https://github.com/jdestephen
 
 **Oscar Presidente**
-0xD9cEB2BB4b8324d36c284799eB00c7CC19A0f618
-Struka9
-oscar@affogato.co
+https://github.com/Struka9
 
 **Robert Mudgett**
-0xB3Bf95Aa39c4eB5772923c61693f35FC39e35fe0
-robert@affogato.co
 
 
 ## Project Advisor

@@ -9,28 +9,16 @@ Double Dabble is a decentralized double opt-in protocol for credit score that en
 ## Project Team
 
 [ Daniele Ugolini ]
-[ ugolino ]
-[ 0xc99Bcab0dAAF45F86ef8787c6577eE9d973B817F ]
-[ dan.ugolini@gmail.com ]
-[ y ]
+https://github.com/ugolino
 
-[ Owanate Amachree ]
-[ owans ]
-[ 0xF1e2979FE88C01D1097e8CE2D17ba9C623737eA3 ]
-[ amachreeowanate@gmail.com ]
-[ y ]
+Owanate Amachree
+https://github.com/owans
 
 [ Thomas Spofford ]
-[ tspoff ]
-[ 0xA53a09E31Ff80bdB028aEdC6dc95709b7f74a94A ]
-[ tspofford@protonmail.com ]
-[ y ]
+https://github.com/tspoff
 
 [ Ryan Lee ]
-[ drdgvhbh ]
-[ 0x078d3293662D34341bb39dAa7fdbE7a3170f6b81 ]
-[ ryanleecode@gmail.com ]
-[ y ]
+https://github.com/drdgvhbh
 
 ## Project SME/Advisor
 
